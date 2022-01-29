@@ -1,0 +1,6 @@
+zephyr-crosstool-ng (0.12.0-0-0) unstable; urgency=low
+
+  * sdk-0.12.0: gcc: Additional build fix for building arm64 toolchain on M1 Mac's Latest
+    Version of crosstool-ng that is used by sdk-0.12.0
+
+ -- Ilya Stolyarov <ila.embsys@gmail.com>  Fri, 7 Jan 2022 23:00:00 +0300

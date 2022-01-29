@@ -1,0 +1,10 @@
+- Change DSC format to 3.0 (quilt)
+- Add patches to possibility enable Ada lang on bare BARE_METAL
+  and disable libada from build
+
+-------------------------------------------------------------------
+Sat Jan  8 03:28:49 UTC 2022 - Ilya Stolyarov <ila.embsys@gmail.com>
+
+- Use ZephyrProject's fork of crosstool-ng for packaging
+- Exclude 'debian' folder from packaging and use own files for
+  debtransform 

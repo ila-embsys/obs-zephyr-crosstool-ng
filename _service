@@ -2,10 +2,10 @@
   <service name="obs_scm" mode="manual">
     <param name="url">https://github.com/zephyrproject-rtos/crosstool-ng.git</param>
     <param name="scm">git</param>
-    <param name="revision">sdk-0.12.0</param>
-    <param name="version">sdk-0.12.0</param>
-    <param name="versionformat">@PARENT_TAG@-@TAG_OFFSET@</param>
-    <param name="versionrewrite-pattern">sdk-(.*)</param>
+    <param name="revision">fe8391fe08a094c601657e1eefb20cdc0dd8619b</param>
+    <param name="version">zephyr-crosstool-ng-1.25.0-rc1</param>
+    <!-- <param name="versionformat">@PARENT_TAG@-@TAG_OFFSET@</param> -->
+    <param name="versionrewrite-pattern">zephyr-crosstool-ng-(.*)</param>
     <param name="versionrewrite-replacement">\1</param>
     <param name="filename">zephyr-crosstool-ng</param>
   </service>

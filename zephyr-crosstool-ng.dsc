@@ -1,6 +1,6 @@
 Format: 3.0 (quilt)
 Source: zephyr-crosstool-ng
-Version: 0.12.0-0-0
+Version: 1.25.0-rc1-0
 Binary: zephyr-crosstool-ng
 Maintainer: Ilya Stolyarov <ila.embsys@gmail.com>
 Architecture: amd64

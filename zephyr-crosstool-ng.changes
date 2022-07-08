@@ -1,3 +1,11 @@
+-------------------------------------------------------------------
+Sun Jul  3 21:16:25 UTC 2022 - Ilya Stolyarov <ila.embsys@gmail.com>
+
+- Change git branch to zephyr-crosstool-ng-1.25.0-rc1
+
+-------------------------------------------------------------------
+Fri Jan  21 22:02:08 UTC 2022 - Ilya Stolyarov <ila.embsys@gmail.com>
+
 - Change DSC format to 3.0 (quilt)
 - Add patches to possibility enable Ada lang on bare BARE_METAL
   and disable libada from build
